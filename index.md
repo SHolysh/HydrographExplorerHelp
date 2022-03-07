@@ -17,9 +17,9 @@ This document provides Help and a quick reference for the new Subwatershed Tool 
 
 The [ORMGP Subwatershed Tool](https://owrc.github.io/subwatershed/) is a mapping tool where the Oak Ridges Moraine jurisdiction has been divided into subwatersheds, each covering an area of approximately 10 square kilometres.
 
-A watershed is defined as an area of land where all water drains to a particular water body (e.g., lake, river segment).  A subwatershed is a portion of a watershed where water drains to a smaller water body within the larger watershed. Each of the subwatersheds shown in this tool is located within larger subwatersheds and watersheds.  
+A _watershed_ is defined as an area of land where all water drains to a particular water body (e.g., lake, river segment).  A _subwatershed_ is a portion of a watershed where water drains to a smaller water body within the larger watershed. Each of the subwatersheds shown in this tool is located within larger subwatersheds and watersheds.  
 
-Upon opening the tool, the map shows the entire ORMGP area, with each discrete subwatershed colour-coded based on imperviousness. The user can select other options for the colour of the watersheds: 
+Upon opening the [subwatershed tool](https://owrc.github.io/subwatershed/) the interactive map shows the entire ORMGP area, with discrete subwatersheds colour-coded based on percentage of impervious land cover. Using the menu in the upper-right corner, the user can select other options for the colour of the watersheds: 
 - Imperviousness
 - Canopy coverage 
 - Wetland coverage 
@@ -32,7 +32,7 @@ In _Figure 1_, the imperviousness is colour-coded for each subwatershed.  Darker
 
 _Figure 1: ORMGP Subwatershed Tool_
 
-The interactive tool provides properties of each subwatershed that the user selects.  When a subwatershed is selected, the properties of the selected watershed appear in a window. These properties include:
+The interactive mapping tool also provides properties of each subwatershed selected by the user.  When a subwatershed is selected by mouse-clicking on the map), the properties of the selected subwatershed appear in a window. These properties include:
 - area of subwatershed
 - permeability
 - percent impervious cover
