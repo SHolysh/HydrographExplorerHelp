@@ -1,5 +1,4 @@
 # SubwatershedHelp
 
-This DRAFT document is published here:  https://steveshikaze.github.io/WatershedToolAbout/
-
+This DRAFT document is published here: https://owrc.github.io/SubwatershedHelp/
 The document can be edited in the index.md file
