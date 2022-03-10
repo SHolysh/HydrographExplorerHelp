@@ -1,6 +1,6 @@
 ---
-title: Subwatersheed Tool Help
-description: Help and quick reference for the ORMGP Subwatershed Tool
+title: Hydrograph Explorer Help
+description: Help and quick reference for the ORMGP Hydrograph Explorer
 author: Oak Ridges Moraine Groundwater Program
 date: 2022-03-10
 output: html_document
@@ -9,17 +9,17 @@ output: html_document
 * TOC
 {:toc}
 
-# ORMGP Subwatershed Tool Help
+# ORMGP Hydrograph Explorer Help
 
-This document provides Help and a quick reference for the new Subwatershed Tool from ORMGP TEST
+This document provides Help and a quick reference for the Hydrograph Explorer from ORMGP
 
-# What is the Subwatershed Tool?
+# What is the Hydrograph Explorer Tool?
 
-The [ORMGP Subwatershed Tool](https://owrc.github.io/subwatershed/) is a mapping tool where the Oak Ridges Moraine area has been divided into subwatersheds, each covering an area of approximately 10 square kilometres.
+The [ORMGP Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydrologyMap/) is a mapping tool where the Oak Ridges Moraine area has been divided into subwatersheds, each covering an area of approximately 10 square kilometres.
 
 A _watershed_ is defined as an area of land where all water drains to a particular water body (e.g., lake, river segment).  A _subwatershed_ is a portion of a watershed where water drains to a smaller water body within the larger watershed. Each of the subwatersheds shown in this tool is located within larger subwatersheds and watersheds.  
 
-Upon opening the [subwatershed tool](https://owrc.github.io/subwatershed/) the interactive map shows the entire ORMGP area, with discrete subwatersheds colour-coded based on percentage of impervious land cover. Using the menu in the upper-right corner, the user can select other options for the colour of the watersheds: 
+Upon opening the [Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydrologyMap/) the interactive map shows the entire ORMGP area, with discrete subwatersheds colour-coded based on percentage of impervious land cover. Using the menu in the upper-right corner, the user can select other options for the colour of the watersheds: 
 - Imperviousness
 - Canopy coverage 
 - Wetland coverage 
