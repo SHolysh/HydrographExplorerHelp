@@ -1,4 +1,4 @@
-# SubwatershedHelp
+# ORMGP Hydrograph Explorer
 
 This DRAFT document is published here: https://owrc.github.io/HydrographExplorerHelp/
 
