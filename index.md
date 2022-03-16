@@ -26,7 +26,7 @@ Upon opening the [Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydr
 
 In _Figure 1_, the imperviousness is colour-coded for each subwatershed.  Darker blue subwatersheds are more impervious, whereas lighter colours are more permeable. 
 
-![*Figure 1: ORMGP Hydrograph Explorer*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/hydrogExp01.PNG)
+![*Figure 1: ORMGP Hydrograph Explorer*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp01.PNG)
 
 _Figure 1: ORMGP Subwatershed Tool_
 
