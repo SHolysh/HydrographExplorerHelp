@@ -17,26 +17,19 @@ This document provides Help and a quick reference for the Hydrograph Explorer fr
 
 The [ORMGP Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydrologyMap/) is a set of mapping, graphing and interpretation tools that allow users to examine hydrologic and hydrogeologic data within the Oak Ridges Moraine (ORM) study area.
 
-Upon opening the [Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydrologyMap/), the user will see a basemap of the ORM  he interactive map shows the entire ORMGP area, with discrete subwatersheds colour-coded based on percentage of impervious land cover. Using the menu in the upper-right corner, the user can select other options for the colour of the watersheds: 
-- Imperviousness
-- Canopy coverage 
-- Wetland coverage 
-- Open water coverage 
-- Permeability 
-
-In _Figure 1_, the imperviousness is colour-coded for each subwatershed.  Darker blue subwatersheds are more impervious, whereas lighter colours are more permeable. 
+Upon opening the [Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydrologyMap/), the user will see a basemap with an options menu on the right-hand side, as shown in _Figure 1_. The menu on the right side shows the options available. Four data options are available:
+- Streamflow stations
+- Climate stations 
+- Deep (>20 m) groundwater monitoring locations 
+- Shallow groundwater monitoring locations
+By default, locations with deep (>20 m below ground surface) groundwater monitoring data for the period 1992 - 20022 are shown. 
 
 ![*Figure 1: ORMGP Hydrograph Explorer*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp01.PNG)
+_Figure 1: ORMGP Hydrograph Explorer_
 
-_Figure 1: ORMGP Subwatershed Tool_
+ 
+- Permeability 
 
-The interactive mapping tool also provides properties of each subwatershed selected by the user.  When a subwatershed is selected by mouse-clicking on the map), the properties of the selected subwatershed appear in a window. These properties include:
-- area of subwatershed
-- permeability
-- percent impervious cover
-- percent canopy cover
-- percent open water cover 
-- percent wetland cover
 
 In _Figure 2_, the map is zoomed in to see the individual subwatershed boundaries in more detail. Properties of the selected subwatershed are shown in a pop-up.
 
