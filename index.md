@@ -25,7 +25,7 @@ Upon opening the [Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydr
 
 By default, locations with deep (>20 m below ground surface) groundwater monitoring data for the period 1992 - 2022 are shown. The four data types listed above can be shown alone or combined. 
 
-![*Figure 1: ORMGP Hydrograph Explorer*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp01.PNG)
+![*Figure 1: ORMGP Hydrograph Explorer*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp01.PNG)  
 _Figure 1: ORMGP Hydrograph Explorer_
 
 On the map, the user can zoom in to focus on a specific area. Location names are shown when the user uses the mouse to hover over a specific location. 
@@ -34,10 +34,14 @@ Clicking on a location Will provide the full location name, plus an option to _a
 ![*Figure 2: ORMGP Hydrograph Explorer - Selection of a Location*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp02.PNG)  
 _Figure 1: ORMGP Hydrograph Explorer - Selection of a location_
 
-Users can select the date envelope in the upper-right, in the menue. The minimum and maximum data are selected with the slider bar.  Once the min and max dates are selected, the map will refresh with locations that include data from within the date envelope. 
+Users can select the date envelope in the upper-right, in the menue. The minimum and maximum data are selected with the slider bar.  Once the min and max dates are selected, the map will refresh with locations that include data from within the date envelope. There's also an option to select the minimum period of data.  Selecting 10 years (for example) from the dropdown menu will show locations that include at least 10 years of data. These two features are shown in the figure below
 
-![*Figure 3: ORMGP Hydrograph Explorer - Selecting Dates*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp03.png)  
-_Figure 1: ORMGP Hydrograph Explorer - Selecting Dates_
+![*Figure 3: ORMGP Hydrograph Explorer - Selecting Dates*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp04.PNG)  
+_Figure 3: ORMGP Hydrograph Explorer - Selecting Dates_  
+
+
+
+
 
 
 
