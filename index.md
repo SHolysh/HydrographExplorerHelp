@@ -38,6 +38,9 @@ Users can select the date envelope in the upper-right, in the menue. The minimum
 
 ![*Figure 3: ORMGP Hydrograph Explorer - Selecting Dates*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp03.png)
 
+
+
+
 _Figure 1: ORMGP Hydrograph Explorer - Selecting Dates_
 
 
