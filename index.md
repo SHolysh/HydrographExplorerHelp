@@ -15,9 +15,9 @@ This document provides Help and a quick reference for the Hydrograph Explorer fr
 
 # What is the Hydrograph Explorer Tool?
 
-The [ORMGP Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydrologyMap/) is a set of mapping, graphing and interpretation tools that allow users to examine hydrologic and hydrogeologic data within the Oak Ridges Moraine study area.
+The [ORMGP Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydrologyMap/) is a set of mapping, graphing and interpretation tools that allow users to examine hydrologic and hydrogeologic data within the Oak Ridges Moraine (ORM) study area.
 
-Upon opening the [Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydrologyMap/) the interactive map shows the entire ORMGP area, with discrete subwatersheds colour-coded based on percentage of impervious land cover. Using the menu in the upper-right corner, the user can select other options for the colour of the watersheds: 
+Upon opening the [Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydrologyMap/), the user will see a basemap of the ORM  he interactive map shows the entire ORMGP area, with discrete subwatersheds colour-coded based on percentage of impervious land cover. Using the menu in the upper-right corner, the user can select other options for the colour of the watersheds: 
 - Imperviousness
 - Canopy coverage 
 - Wetland coverage 
@@ -26,7 +26,7 @@ Upon opening the [Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydr
 
 In _Figure 1_, the imperviousness is colour-coded for each subwatershed.  Darker blue subwatersheds are more impervious, whereas lighter colours are more permeable. 
 
-![*Figure 1: ORMGP Subwatershed Tool*](https://raw.githubusercontent.com/OWRC/SubwatershedHelp/main/images/Subwatershed1.PNG)
+![*Figure 1: ORMGP Hydrograph Explorer*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/hydrogExp01.PNG)
 
 _Figure 1: ORMGP Subwatershed Tool_
 
