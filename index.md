@@ -22,20 +22,20 @@ Upon opening the [Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydr
 - Climate stations 
 - Deep (>20 m) groundwater monitoring locations 
 - Shallow groundwater monitoring locations
-By default, locations with deep (>20 m below ground surface) groundwater monitoring data for the period 1992 - 20022 are shown. 
+
+By default, locations with deep (>20 m below ground surface) groundwater monitoring data for the period 1992 - 2022 are shown. The four data types listed above can be shown alone or combined. 
 
 ![*Figure 1: ORMGP Hydrograph Explorer*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp01.PNG)
 _Figure 1: ORMGP Hydrograph Explorer_
 
- 
-- Permeability 
+On the map, the user can zoom in to focus on a specific area. Location names are shown when the user uses the mouse to hover over a specific location. 
+
+Clicking on a location Will provide the full location name, plus an option to _analyze monitoring data_, as shown in the figure below:
+![*Figure 2: ORMGP Hydrograph Explorer - Selection of a Location*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp02.PNG)
+_Figure 1: ORMGP Hydrograph Explorer - Selection of a location_
 
 
-In _Figure 2_, the map is zoomed in to see the individual subwatershed boundaries in more detail. Properties of the selected subwatershed are shown in a pop-up.
 
-![*Figure 2: Subwatershed Properties*](https://raw.githubusercontent.com/OWRC/SubwatershedHelp/main/images/subwatershed2.PNG)
-
-_Figure 2: Subwatershed Properties_
 
 
 
