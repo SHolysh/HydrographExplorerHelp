@@ -31,17 +31,13 @@ _Figure 1: ORMGP Hydrograph Explorer_
 On the map, the user can zoom in to focus on a specific area. Location names are shown when the user uses the mouse to hover over a specific location. 
 
 Clicking on a location Will provide the full location name, plus an option to _analyze monitoring data_, as shown in the figure below:
-![*Figure 2: ORMGP Hydrograph Explorer - Selection of a Location*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp02.PNG)
+![*Figure 2: ORMGP Hydrograph Explorer - Selection of a Location*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp02.PNG)  
 _Figure 1: ORMGP Hydrograph Explorer - Selection of a location_
 
 Users can select the date envelope in the upper-right, in the menue. The minimum and maximum data are selected with the slider bar.  Once the min and max dates are selected, the map will refresh with locations that include data from within the date envelope. 
 
-![*Figure 3: ORMGP Hydrograph Explorer - Selecting Dates*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp03.png)
-
-
-
-
-_Figure 1: ORMGP Hydrograph Explorer - Selecting Dates_
+![*Figure 3: ORMGP Hydrograph Explorer - Selecting Dates*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp03.png)  
+<br> _Figure 1: ORMGP Hydrograph Explorer - Selecting Dates_
 
 
 
