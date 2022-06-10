@@ -2,7 +2,7 @@
 title: Hydrograph Explorer Help
 description: Help and quick reference for the ORMGP Hydrograph Explorer
 author: Oak Ridges Moraine Groundwater Program
-date: 2022-03-16
+date: 2022-06-16
 output: html_document
 ---
 
@@ -11,7 +11,7 @@ output: html_document
 
 # ORMGP Hydrograph Explorer Help
 
-This document provides Help and a quick reference for the Hydrograph Explorer from ORMGP.
+This document provides Help and a quick reference for the Hydrograph Explorer from ORMGP. ss
 
 # What is the Hydrograph Explorer Tool?
 
