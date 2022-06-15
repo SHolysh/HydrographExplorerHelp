@@ -41,6 +41,8 @@ Clicking on a location will provide the full location name, plus an option to _a
 ![*Figure 3: ORMGP Hydrograph Explorer - Selection of a Location*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/HydrogExp02.PNG)  
 _Figure 3: ORMGP Hydrograph Explorer - Selection of a location_
 
+Once a location is selected and the user clicks _analyze monitoring data_, a new web-browser tab will open with graphs and details of the selected location as shown in Figure 4. 
+
 
 
 
