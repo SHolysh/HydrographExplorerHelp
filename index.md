@@ -57,6 +57,6 @@ In the sHydrograph browser window, one or more X-Y graphs will shown, depending 
 3. Water levels (both static (point data) and logger (line data) are shown)
 The data shown in these graphs can be toggled off or on using the check boxes on the left menu. 
 
-For these hydrographs, precipitation (rainfall and [snowmelt](https://owrc.github.io/interpolants/modelling/snowmeltCCF.html){:target="_blank"}) and [air pressure](https://owrc.github.io/interpolants/interpolation/barometry.html){:target="_blank"} data are interpoolated from nearby meteorlogical stations. The remaining data (pumping rates/production and water levels) are from the ORMGP database.
+For these hydrographs, precipitation ([rainfall](https://owrc.github.io/interpolants/sources/sources.html#web-data-scrapers){:target="_blank"} and [snowmelt](https://owrc.github.io/interpolants/modelling/snowmeltCCF.html){:target="_blank"}) and [air pressure](https://owrc.github.io/interpolants/interpolation/barometry.html){:target="_blank"} data are interpoolated from nearby meteorlogical stations. The remaining data (pumping rates/production and water levels) are from the ORMGP database.
 
 
