@@ -42,19 +42,12 @@ Clicking on a location will provide the full location name, plus an option to _a
 _Figure 3: ORMGP Hydrograph Explorer - Selection of a location_
 
 Once a location is selected and the user clicks _analyze monitoring data_, a new web-browser tab will open with graphs and details of the selected location as shown in Figure 4. 
-
-Clicking on a location will provide the full location name, plus an option to _analyze monitoring data_, as shown in Figure 3.  Once a location is selected, a preview of the hydrograph for the selected location of the menu on the right.
 ![*Figure 4: ORMGP Hydrograph Tools*](https://raw.githubusercontent.com/OWRC/HydrographExplorerHelp/main/images/Hydrograph01.png)  
 _Figure 4: ORMGP Hydrograph Tools_
 
-
-
-
-
-
-
-
-
-
+In the sHydrograph browser window, one or more X-Y graphs will shown, depending on what data is available for the selected location. For this example (Nobleton PW 3), three graphs are shown for: 
+1. Precipitation (including rainfall and snowmelt)
+2. Production (in this case, PW 3 represents a pumping well)
+3. Water levels (both static (point data) and logger (line data) are shown)
 
 
