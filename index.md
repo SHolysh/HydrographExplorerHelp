@@ -17,7 +17,7 @@ This document provides Help and a quick reference for the Hydrograph Explorer fr
 
 The [ORMGP Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydrologyMap/){:target="_blank"} is a set of graphing and interpretation tools that allow users to examine hydrologic and hydrogeologic data within the Oak Ridges Moraine (ORM) study area. The tools can be used to view X-Y plots of water-level data for groundwater and surface-water locations.  Data sources include the ORMGP database and various online sources. 
 
-Upon opening the [Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydrologyMap/), the user will see a basemap with an options menu on the right-hand side, as shown in _Figure 1_. The menu on the right side shows the options available. Four data options are available:
+Upon opening the [Hydrograph Explorer](http://shiny.oakridgeswater.ca:3838/sHydrologyMap/){:target="_blank"}, the user will see a basemap with an options menu on the right-hand side, as shown in _Figure 1_. The menu on the right side shows the options available. Four data options are available:
 - Streamflow stations
 - Climate stations 
 - Deep (>20 m) groundwater monitoring locations 
